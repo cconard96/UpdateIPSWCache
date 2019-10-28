@@ -1,3 +1,4 @@
+#!/bin/bash
 # Some global variables
 CONFIGURATOR_FIRMWARE_DIR="~/Library/Group Containers/K36BKF7T3D.group.com.apple.configurator/Library/Caches/Firmware/"
 WORKING_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
